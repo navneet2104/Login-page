@@ -1,0 +1,32 @@
+body{
+  font-family: "Alata",sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: bold;
+}
+
+
+p{
+  color: #8f8f8f;
+}
+
+
+/*containers*/
+.container-fluid{
+  padding: 7% 15%;
+}
+.container-fluidf{
+  padding: 5% 10%;
+  margin-bottom: 60px;
+}
+
+.bg{
+  padding-top: 20px;
+  background-color: #e4f9f5;
+}
+
+
